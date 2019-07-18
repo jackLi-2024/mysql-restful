@@ -9,3 +9,8 @@
 
 配置可修改：
 	vim start.sh
+
+
+
+相关的mysql-restful接口文档
+	https://github.com/o1lab/xmysql#health
